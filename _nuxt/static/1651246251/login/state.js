@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"quwi-test.github.io\u002F_nuxt\u002Fstatic\u002F1651246251",layout:"default",error:a,state:{isAuthed:false,token:"",projects:[]},serverRendered:true,routePath:"\u002Flogin",config:{_app:{basePath:"quwi-test.github.io\u002F",assetsPath:"quwi-test.github.io\u002F_nuxt\u002F",cdnURL:a}}}}(null));
